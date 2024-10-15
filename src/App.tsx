@@ -10,6 +10,7 @@ export default function App() {
           <Button variant="outlined">Hello</Button>
           <Button variant="contained">Hello</Button>
           <Button variant="contained">Hello</Button>
+          <Button variant="contained">Hello</Button>
         </Grid2>
         <Button variant="outlined">Hello</Button>
         <Button variant="contained">Hello</Button>
